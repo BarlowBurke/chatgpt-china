@@ -13,7 +13,7 @@
 | **AI Mirror 一站式平台** | [chat.aimirror123.com](https://chat.aimirror123.com) | GPT-5.4, Claude 4.7, Gemini 3.1, GPT-o4 | 注册赠送高额算力，每日登录送 GPT-5.4 对话。支持 Midjourney 与 AI PPT，全网最强 **ChatGPT 镜像** |
 | **ChatGPT Mirrors 聚合站** | [chatgpt-mirrors.com](https://chatgpt-mirrors.com) | GPT-5.4, GPT-o4, Claude 4.7, DeepSeek R2 | 每日赠送免费次数，无广告干扰，稳定极速的顶级 **ChatGPT 中文版** |
 | **ChatGPT Chinese 直连** | [chatgpt-chinese-mirrros.com](https://chatgpt-chinese-mirrros.com) | Claude 4.7 Sonnet/Opus, GPT-5.4, GPT-o4 | 专注国内直连体验，界面极简，响应速度极快的纯粹 **ChatGPT 镜像** |
-| **Grok & 前沿资讯站** | [grok-blogs.com](https://grok-blogs.com) | Grok 4.2, Gemini 3.1, GPT-5.4 | 前沿 AI 教程与 **ChatGPT 中文版**完美结合，适合进阶极客用户首选 |
+| **Grok & 前沿资讯站** | [grok-blogs.com](https://gemini-chinese-guide.com) | Grok 4.2, Gemini 3.1, GPT-5.4 | 前沿 AI 教程与 **ChatGPT 中文版**完美结合，适合进阶极客用户首选 |
 
 ## 主流大模型核心能力对比（GPT-5.4、GPT-o4、Claude 4.7 等）
 
